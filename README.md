@@ -82,8 +82,7 @@ To run the tests:
 `npm run test`
 
 #### Screenshot:
-
-
+<img width="960" alt="image" src="https://github.com/RonenMars/auto-kitteh-fe/assets/7413072/4b185ee7-d373-48e0-ae05-36fe170171f4">
 
 Author
 Ronen Mars
