@@ -1,0 +1,21 @@
+{
+  "person": {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "age": 30
+  },
+  "address": {
+    "street": "123 Main St",
+    "city": "Example City",
+    "zipCode": "12345"
+  },
+  "phones": {
+    "home": "800-123-4567",
+    "mobile": "877-123-1234"
+  },
+  "emergencyContacts": {
+    "name": "Jane Doe",
+    "phone": "888-555-1212",
+    "relationship": "spouse"
+  }
+}

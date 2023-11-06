@@ -1,0 +1,31 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.demo123 {
+    border: 1px solid red;
+    background-color: #9df0f3;
+    transition: all 0.3s;
+    animation: blink 1s infinite;
+}
+
+.demo01 {
+    border: 1px solid red;
+    background-color: #9df0f3;
+}
+
+@keyframes blink {
+    0% {
+        background-color: red;
+    }
+    20% {
+        background-color: blue;
+    }
+    50% {
+        background-color: yellow;
+    }
+    100% {
+        background-color: green;
+    }
+}
